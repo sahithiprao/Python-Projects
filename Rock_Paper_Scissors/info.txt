@@ -1,0 +1,15 @@
+Attributes - Rock, Paper, Scissors
+
+Rules - 
+1) Rock smashes Scissors
+2) Paper covers Rock
+3) Scissors cut Paper
+
+conditions - 
+1) both actions are equal then tie
+2) user selects Rock - computer selects Scissors then user wins
+                    - computer wins
+3) user selects Paper - Computer selects Rock then user wins
+                    - computer wins
+4) user selects Scissors - computer selects Paper then user wins
+                        - computer wins
